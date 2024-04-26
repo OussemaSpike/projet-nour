@@ -1,0 +1,10 @@
+
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤£8¤ô‰¸ñ1J$d37a1efe-bb82-4ed9-a618-a05d40431aa7
+’
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äîì8ö™ø¸ñ1J$0685c55d-6fbf-4ac8-9818-763e444394d1
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¶üÊ 8ù”¶ñ1J$8b9c0414-8891-4f0d-a03a-cd3cd72bac23
+r	java:S106"+Replace this use of System.out by a logger.(áã€©ıÿÿÿÿ8äÜ‰¸ñ1J$b2ef2a31-36f8-415e-a302-7e3ffb92d454
+r	java:S106;"+Replace this use of System.out by a logger.(ì€ëıÿÿÿÿ8‚šø¸ñ1J$ddb050c4-90ce-4f24-a9c9-e81af157da1b
+r	java:S106K"+Replace this use of System.out by a logger.(”¨Øáıÿÿÿÿ8„îú¸ñ1J$05d4e7f6-e4d1-4f31-9b1f-3975e5222dc6
